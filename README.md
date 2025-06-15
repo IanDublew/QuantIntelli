@@ -5,7 +5,7 @@
 ### A Hybrid AI Agent for Quantitative Football Betting Analysis
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/52585016?s=400&u=108b868bb5d0fe87f95b59f58d48cae67bee79c7&v=4"  alt="QuantIntelli+ Banner" width="700"/>
+  <img src="https://pbs.twimg.com/media/GtFKUeRWYAAVVrP?format=png&name=small"  alt="QuantIntelli+ Banner" width="700"/>
 </p>
 
 **QuantIntelli+ is not just another prediction bot. It's a sophisticated, two-stage analytical agent that fuses a battle-tested statistical model with a powerful, context-aware RAG-LLM pipeline.**
@@ -17,6 +17,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 </div>
+
+## 🔗 Quick Links
+- **[Try QuantIntelli+ Live](https://huggingface.co/spaces/ChillThrills/QuantIntelli)**
+- **[View Performance Leaderboard](https://huggingface.co/spaces/ChillThrills/Leaderboard)**
 
 ---
 
