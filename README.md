@@ -17,7 +17,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 </div>
-
+### Proof of Work
+`https://huggingface.co/spaces/ChillThrills/Leaderboard`
 ---
 
 ## ✨ Core Features   
