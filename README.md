@@ -19,7 +19,7 @@
 </div>
 
 ## 🔗 Quick Links
-- **[Try QuantIntelli+ Live](https://iandublew.github.io/QuantIntelli-Chat-UI/)**
+- **[Try QuantIntelli+ Live](https://iandublew.github.io/quantintelli-UI/)**
 - **[View Performance Leaderboard](https://huggingface.co/spaces/ChillThrills/Leaderboard)**
 
 ---
