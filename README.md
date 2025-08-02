@@ -2,7 +2,7 @@
 
 # QuantIntelli+ ⚽️
 
-### A Hybrid AI Agent for Quantitative Football Betting Analysis
+### A Hybrid AI Agent for Quantitative Football Prediction Analysis
 
 <p align="center">
   <img src="https://pbs.twimg.com/media/GtFKUeRWYAAVVrP?format=png&name=small"  alt="QuantIntelli+ Banner" width="700"/>
