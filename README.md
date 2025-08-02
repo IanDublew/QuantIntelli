@@ -20,7 +20,7 @@
 
 ## 🔗 Quick Links
 - **[Try QuantIntelli+ Live](https://iandublew.github.io/quantintelli-UI/)**
-- **[View Performance Leaderboard](https://huggingface.co/spaces/ChillThrills/Leaderboard)**
+- **[View Prediction Analyisis](https://iandublew.github.io/QuantIntelli-Leaderboard)**
 
 ---
 
